@@ -274,7 +274,7 @@ module.exports = "<div class=\"boxContent\">\n  <div class=\"boxHeaderAyah\">\n 
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ".boxContent {\n  position: fixed;\n  top: 0;\n  left: 0;\n  width: 100vw;\n  height: 100vh;\n  overflow: hidden; }\n  .boxContent .boxHeaderAyah {\n    padding: 8px;\n    position: fixed;\n    width: 100%;\n    top: 0;\n    left: 0;\n    background: #00d1b2;\n    text-align: center; }\n  .boxContent .boxHeaderAyah a {\n      position: absolute;\n      top: 14px;\n      left: 12px;\n      padding: 2px 6px;\n      border: 1px solid #fff;\n      border-radius: 4px;\n      color: #fff; }\n  .boxContent .boxHeaderAyah h2 {\n      color: #ffffff; }\n  .boxContent .boxHeaderAyah small {\n      color: #fafafa; }\n  .boxContent .boxListAyah {\n    position: fixed;\n    width: 100%;\n    height: 88.5;\n    padding: 24px;\n    overflow-y: scroll;\n    top: 11.5%;\n    left: 0;\n    background: #fafafa; }\n  .boxContent .boxListAyah .box {\n      text-align: right;\n      margin-bottom: 1.25em; }\n  .boxContent .boxListAyah .box h2 {\n        color: #333333;\n        line-height: 2.5em; }\n"
+module.exports = ".boxContent {\n  position: fixed;\n  top: 0;\n  left: 0;\n  width: 100vw;\n  height: 100vh;\n  overflow: hidden; }\n  .boxContent .boxHeaderAyah {\n    padding: 8px;\n    position: fixed;\n    width: 100%;\n    top: 0;\n    left: 0;\n    background: #00d1b2;\n    text-align: center; }\n  .boxContent .boxHeaderAyah a {\n      position: absolute;\n      top: 14px;\n      left: 12px;\n      padding: 2px 6px;\n      border: 1px solid #fff;\n      border-radius: 4px;\n      color: #fff; }\n  .boxContent .boxHeaderAyah h2 {\n      color: #ffffff; }\n  .boxContent .boxHeaderAyah small {\n      color: #fafafa; }\n  .boxContent .boxListAyah {\n    position: fixed;\n    width: 100%;\n    height: 95.5%;\n    padding: 24px;\n    overflow-y: scroll;\n    top: 9.5%;\n    left: 0;\n    background: #fafafa; }\n  .boxContent .boxListAyah .box {\n      text-align: right;\n      margin-bottom: 1.25em; }\n  .boxContent .boxListAyah .box h2 {\n        color: #333333;\n        line-height: 2.5em; }\n"
 
 /***/ }),
 
@@ -561,7 +561,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/ahmad/Me/Projects/alquran-web/angular/src/main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! /home/udin/Me/Study/alquran-web/angular/src/main.ts */"./src/main.ts");
 
 
 /***/ })
